@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7ee2ff9-e13d-4cbe-a1ec-21c0d9af64a0" name="Default" comment="updated mail">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/contact_me.js" afterPath="$PROJECT_DIR$/js/contact_me.js" />
+    <list default="true" id="e7ee2ff9-e13d-4cbe-a1ec-21c0d9af64a0" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/about/1.jpg" afterPath="$PROJECT_DIR$/img/about/1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/about/2.jpg" afterPath="$PROJECT_DIR$/img/about/2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/about/3.jpg" afterPath="$PROJECT_DIR$/img/about/3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/about/4.jpg" afterPath="$PROJECT_DIR$/img/about/4.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -30,19 +33,16 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="69" column="22" selection-start="2974" selection-end="2974" vertical-scroll-proportion="0.84324324" vertical-offset="255" max-vertical-offset="7305">
-              <folding>
-                <element signature="tag#section#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#section#1;tag#body#0;tag#html#0" expanded="false" />
-              </folding>
+            <state line="276" column="93" selection-start="12571" selection-end="12571" vertical-scroll-proportion="0.3372973" vertical-offset="3828" max-vertical-offset="10260">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Downloads/startbootstrap-agency-gh-pages/index.html">
+      <file leaf-file-name="agency.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/agency.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="464" column="22" selection-start="23025" selection-end="23328" vertical-scroll-proportion="-25.333334" vertical-offset="6352" max-vertical-offset="10140">
+            <state line="59" column="27" selection-start="974" selection-end="980" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="11385">
               <folding />
             </state>
           </provider>
@@ -52,15 +52,6 @@
         <entry file="file://$PROJECT_DIR$/js/contact_me.js">
           <provider selected="true" editor-type-id="text-editor">
             <state line="22" column="68" selection-start="966" selection-end="966" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1170">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="formulier.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Downloads/form/formulier.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="945">
               <folding />
             </state>
           </provider>
@@ -133,6 +124,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="portfolioWebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="portfolioWebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -145,8 +150,22 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
     <property name="FullScreen" value="true" />
+    <property name="LayoutCode.rearrangeEntriesHTML" value="false" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -181,7 +200,11 @@
       <created>1474483358246</created>
       <updated>1474483358246</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="updated mail">
+      <created>1474485105942</created>
+      <updated>1474485105942</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -223,7 +246,8 @@
     </option>
     <MESSAGE value="commented out contact&#10;" />
     <MESSAGE value="fixed proximus invision" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed proximus invision" />
+    <MESSAGE value="updated mail" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated mail" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -250,13 +274,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/agency.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="27" selection-start="974" selection-end="980" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="11385">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="22" selection-start="2974" selection-end="2974" vertical-scroll-proportion="0.84324324" vertical-offset="255" max-vertical-offset="7305">
-          <folding>
-            <element signature="tag#section#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#section#1;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
+        <state line="276" column="93" selection-start="12571" selection-end="12571" vertical-scroll-proportion="0.3372973" vertical-offset="3828" max-vertical-offset="10260">
+          <folding />
         </state>
       </provider>
     </entry>
